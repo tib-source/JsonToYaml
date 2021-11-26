@@ -1,7 +1,7 @@
 # JsonToYaml
 
 This is a little python script that I used to convert a large json array into a markdown/toml file. Created this because I was using the netlify cms to manage content on my website but It only accepted markdown files so ... yea.
-Script is just a simple for loop so feel free to use it. I might refactor it later so that it could become a cli tool which accepts input and output file as an argument :/.
+Script is just a simple `for` loop so feel free to use it. I might refactor it later so that it could become a cli tool which accepts input and output file as an argument :/.
 
 How to use:
 
